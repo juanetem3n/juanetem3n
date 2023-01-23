@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Alcaide</h1>
 <h3 align="center">A passionate frontend developer from Cordoba, Argentina.</h3>
 
-- 🔭 I’m currently working on [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku)
+- 🔭 I just finish my Final Proyect [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku)
 
 - 🌱 I’m currently learning **TypeScript / ChakraUI**
 
-- 👯 I’m looking to collaborate on [Inmobiliaria RAE Sta Fe.](https://github.com/salvaarmanasco/Proyecto-Inmobiliario)
+- 👯 I’m currently working on [Inmobiliaria RAE Sta Fe.](https://github.com/salvaarmanasco/Proyecto-Inmobiliario)
 
 - 💬 Ask me about **react, redux, nodejs, auth0, material ui, express, sequelize**
 
